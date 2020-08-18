@@ -13,4 +13,5 @@ To improve the performance, I turned to deep learning approached with the ANN. A
 architecture, I achieved my best performing model yet with an F1-score of ~91.2%. 
 
 After this, I experimented with other methods to improve accuracy, namely data augmentation and ensembling. 
-With these methods, I was able to improve performance to 92.266% and win the competition. 
+With these methods, I was able to improve performance to 92.266% and win the competition. Check out the 
+notebook!
